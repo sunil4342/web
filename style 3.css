@@ -1,0 +1,6 @@
+/* .d{background-image: linear-gradient(green,yellow);width: 80%;height: 40vh;overflow: scroll;}
+.first{height: 20vh;width: 20%;background-image: linear-gradient(orange,white,green);}
+.second{background-image: linear-gradient(green,yellow);width: 20%;height: 20vh;float: left;
+    padding: 10px;margin-left: px;position: ;} */
+body{background-color: brown;display: flex;}
+.card{background-color: blue;}
